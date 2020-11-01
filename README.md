@@ -1,6 +1,3 @@
-![cover](https://s30.postimg.org/jd8v60sz5/512_-_Play_Store.png)
-
-![ci-status](https://www.bitrise.io/app/bb4aabbc957bd2b7.svg?token=SyPF95S59HZ_SUtXYLruaQ&branch=master)
 
 E-commerce app built on Xamarin Forms, don't forget to check our items and make sure not to overdraw your bank account.
 
